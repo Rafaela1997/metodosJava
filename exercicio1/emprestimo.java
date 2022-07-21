@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class emprestimo {
     
 public static double getTaxaDuasParcelas(){
