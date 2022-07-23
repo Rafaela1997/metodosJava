@@ -11,6 +11,7 @@ public class quadrilateroAtualizado {
 
         return lado1 * lado2;
     }
+    
 
     public static double area(double baseMaior, double baseMenor, double altura) {
 
